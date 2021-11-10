@@ -12,5 +12,5 @@ https://github.com/zodiacon/windowskernelprogrammingbook
 
 https://leanpub.com/windowskernelprogramming
 
-https://item.jd.com/12880683.html（Chinese Edition)
+https://item.jd.com/12880683.html （Chinese Edition)
 
